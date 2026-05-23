@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: implement two-way binding with @bind on input
+## feat: add @bind:event=oninput for real-time capture
 
-Commit #3
+Commit #4
