@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 2
-feat: create App03 TodoList Blazor project
+## Commit 3
+feat: add TodoItem class with Text and IsCompleted properties
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
