@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## style: improve input group styling
+## feat: disable Add button when input is empty
 
-Commit #18
+Commit #19
