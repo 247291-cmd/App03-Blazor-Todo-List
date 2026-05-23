@@ -1,8 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 27
-docs: add README for App03
+## feat: add TodoList page with @page / route
 
-Blazor Assignment 4 - Mr. Qaiser Ali
-
-Updated: 2026-05-23 15:37:39
+Commit #2
