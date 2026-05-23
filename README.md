@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 14
-style: add gradient green background theme
+## Commit 15
+style: add Bootstrap card with rounded corners
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
