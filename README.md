@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: add TodoList page with @page / route
+## feat: implement two-way binding with @bind on input
 
-Commit #2
+Commit #3
