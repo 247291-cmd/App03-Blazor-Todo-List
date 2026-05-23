@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## style: strikethrough completed tasks
+## style: add Add button with gradient style
 
-Commit #14
+Commit #15
