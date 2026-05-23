@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 21
-style: add responsive layout
+## Commit 22
+feat: add PageTitle To-Do List
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
