@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 26
-chore: add .gitignore
+## Commit 27
+docs: add README for App03
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
