@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 8
-feat: add checkbox binding for task completion toggle
+## Commit 9
+feat: add RemoveTask method for individual task deletion
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
