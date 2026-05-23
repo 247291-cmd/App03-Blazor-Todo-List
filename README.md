@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## style: add Clear All and Clear Done buttons
+## style: improve input group styling
 
-Commit #17
+Commit #18
