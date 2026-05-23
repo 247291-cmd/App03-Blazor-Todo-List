@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: disable Clear Done when no completed tasks
+## refactor: use TodoItem class with Text and IsCompleted
 
-Commit #20
+Commit #21
