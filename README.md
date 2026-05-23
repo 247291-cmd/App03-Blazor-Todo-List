@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: implement ClearCompleted method
+## feat: add Enter key handler with @onkeydown
 
-Commit #8
+Commit #9
