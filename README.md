@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## style: add empty state with emoji
+## style: add Clear All and Clear Done buttons
 
-Commit #16
+Commit #17
