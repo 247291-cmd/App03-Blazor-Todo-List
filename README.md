@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 7
-feat: implement one-way binding with @foreach for task list
+## Commit 8
+feat: add checkbox binding for task completion toggle
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
