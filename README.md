@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 15
-style: add Bootstrap card with rounded corners
+## Commit 16
+style: style task items with hover effect
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
