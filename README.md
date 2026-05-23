@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: disable Add button when input is empty
+## feat: disable Clear Done when no completed tasks
 
-Commit #19
+Commit #20
