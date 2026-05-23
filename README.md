@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 18
-style: add empty state with emoji placeholder
+## Commit 19
+style: style Add button with gradient
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
