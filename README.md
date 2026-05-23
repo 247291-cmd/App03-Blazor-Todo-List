@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 23
-style: add min-vh-100 full height background
+## Commit 24
+feat: update NavMenu with green branding
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
