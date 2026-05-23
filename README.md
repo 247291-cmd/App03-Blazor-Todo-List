@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: add Enter key handler with @onkeydown
+## feat: add checkbox for task completion toggle
 
-Commit #9
+Commit #10
