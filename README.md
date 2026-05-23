@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## chore: add gitignore
+## docs: add README for App03
 
-Commit #25
+Commit #26
