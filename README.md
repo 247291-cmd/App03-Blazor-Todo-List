@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 3
-feat: add TodoItem class with Text and IsCompleted properties
+## Commit 4
+feat: implement two-way binding with @bind on newTask input
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
