@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## style: add Add button with gradient style
+## style: add empty state with emoji
 
-Commit #15
+Commit #16
