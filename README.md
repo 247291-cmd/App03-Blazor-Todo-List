@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 10
-feat: implement ClearAll button and method
+## Commit 11
+feat: implement ClearCompleted button
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
