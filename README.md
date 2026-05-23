@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## style: add responsive layout
+## fix: task index correctly handled on delete
 
-Commit #23
+Commit #24
