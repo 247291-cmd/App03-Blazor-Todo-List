@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: implement AddTask method
+## feat: implement RemoveTask by index
 
-Commit #5
+Commit #6
