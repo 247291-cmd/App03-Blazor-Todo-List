@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 16
-style: style task items with hover effect
+## Commit 17
+style: add strikethrough for completed tasks
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
