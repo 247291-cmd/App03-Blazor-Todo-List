@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: implement RemoveTask by index
+## feat: implement ClearAll method
 
-Commit #6
+Commit #7
