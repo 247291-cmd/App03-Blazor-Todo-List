@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: implement ClearAll method
+## feat: implement ClearCompleted method
 
-Commit #7
+Commit #8
