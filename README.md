@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: add task count display in header
+## style: add green gradient background
 
-Commit #11
+Commit #12
