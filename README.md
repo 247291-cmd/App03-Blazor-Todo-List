@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## fix: task index correctly handled on delete
+## chore: add gitignore
 
-Commit #24
+Commit #25
