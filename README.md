@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## feat: add NavMenu with green branding
+## style: add responsive layout
 
-Commit #22
+Commit #23
