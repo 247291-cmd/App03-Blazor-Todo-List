@@ -1,7 +1,7 @@
 ﻿# App03-Blazor-Todo-List
 
-## Commit 19
-style: style Add button with gradient
+## Commit 20
+feat: add task count display in header
 
 Blazor Assignment 4 - Mr. Qaiser Ali
 
