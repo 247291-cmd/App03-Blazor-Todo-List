@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## style: add task items with hover effect
+## style: strikethrough completed tasks
 
-Commit #13
+Commit #14
