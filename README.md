@@ -1,5 +1,5 @@
 ﻿# App03-Blazor-Todo-List
 
-## refactor: use TodoItem class with Text and IsCompleted
+## feat: add NavMenu with green branding
 
-Commit #21
+Commit #22
